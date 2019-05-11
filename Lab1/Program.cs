@@ -9,6 +9,7 @@ namespace Lab1
 
     class Program
     {
+        //878787
         static MrWangConnection MrWangConnection;
         static void Main(string[] args)
         {
